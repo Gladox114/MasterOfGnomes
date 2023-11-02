@@ -17,8 +17,8 @@ data = {
         ["s"] = "BACK",
         ["a"] = "LEFT",
         ["d"] = "RIGHT",
-        ["k"] = "UP",
-        ["j"] = "DOWN",
+        ["e"] = "UP",
+        ["q"] = "DOWN",
     },
 
     information = {
